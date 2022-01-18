@@ -12,6 +12,7 @@ Customer segmentation algorithm consumes a csv file of three demographic variabl
 ![Screen Shot 2022-01-15 at 4 54 43 PM](https://user-images.githubusercontent.com/82774370/149638905-56d2dbbe-3208-408f-b151-e23de3a89b17.png)
 
 Finally, in order to display the clusters, Plotly Express was used to generate an interactive 3D model that also presents individual demographics. 
+
 ![Screen Shot 2022-01-15 at 2 48 18 PM](https://user-images.githubusercontent.com/82774370/149635794-d70f8732-7890-4c26-a531-f544cfb36405.png)
 
 ## Next steps
